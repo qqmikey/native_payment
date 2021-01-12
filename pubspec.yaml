@@ -1,8 +1,8 @@
 name: sberbank_native_pay
-description: A new Flutter plugin.
+description: Apple Pay & Google Pay.
 version: 0.0.1
-author:
-homepage:
+author: qqmikey
+homepage: https://github.com/qqmikey/native_payment
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
